@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="400" width="800" src="resources/octodex.github.com/nuxtocat"  />
+  <img height="400" width="800" src="resources/gifbackround.gif"  />
 </div>
 
 ###
